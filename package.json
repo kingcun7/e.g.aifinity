@@ -1,0 +1,11 @@
+{
+  "name": "aifinity",
+  "version": "1.0.0",
+  "scripts": {
+    "build": "eleventy",
+    "start": "eleventy --serve"
+  },
+  "dependencies": {
+    "@11ty/eleventy": "^1.0.0"
+  }
+}
